@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">webs</string>
+
+    <string-array name="ops">
+        <item>Operaciones</item>
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>División</item>
+        <item>Multiplicación</item>
+    </string-array>
+    <string-array name="monedas">
+        <item>Divisas disponibles</item>
+        <item>Dólar Estadounidense</item>
+        <item>Euro</item>
+        <item>Libra Esterlina</item>
+        <item>Yen Japonés</item>
+        <item>Dólar Canadiense</item>
+    </string-array>
+</resources>
